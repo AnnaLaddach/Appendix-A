@@ -1,0 +1,9 @@
+class,category,num_proteins,len_region,len_all,savs_region,savs_all
+common,vehicle_1,496,17840,222055,87,1082
+rare,vehicle_1,1240,44871,427036,13562,143293
+cosmic,vehicle_1,1254,45263,435297,7664,74890
+clinvar,vehicle_1,232,10196,103795,293,1847
+common,vehicle_2,461,16684,210680,73,1008
+rare,vehicle_2,1157,41893,403779,12633,135829
+cosmic,vehicle_2,1169,42220,411655,7074,71264
+clinvar,vehicle_2,221,9739,97686,243,1657

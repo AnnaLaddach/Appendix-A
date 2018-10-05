@@ -1,0 +1,1 @@
+Pearson correlations calculated between features calculated over 5001 snapshots for Fn3-90 mutants and those calculated over 101 snapshots. Features were calculated using minimal distances between mutant trajectories and a single wild-type trajectory.

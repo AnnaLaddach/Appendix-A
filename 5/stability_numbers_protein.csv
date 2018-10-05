@@ -1,0 +1,9 @@
+"class","category","num_proteins","length","SAVs"
+"common","vehicle_1",3632,2200026,8096
+"rare","vehicle_1",3632,2200026,832262
+"cosmic","vehicle_1",3632,2200026,344272
+"clinvar","vehicle_1",3632,2200026,5139
+"common","vehicle_2",3323,2032696,7341
+"rare","vehicle_2",3323,2032696,768937
+"cosmic","vehicle_2",3323,2032696,318033
+"clinvar","vehicle_2",3323,2032696,4565
