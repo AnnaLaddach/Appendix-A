@@ -1,4 +1,4 @@
-# Thesis_Anna_Laddach_2018_Appendix-A
+# Thesis_Anna_Laddach_2019_Appendix-A
 1. The impact of using different cut-offs for the minimum number of protein core residues.
 2. Details of the number of SAVs which localise to different protein regions in the gnomAD
 common and rare, COSMIC and Clinvar datasets.
